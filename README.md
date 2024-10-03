@@ -3,7 +3,7 @@
 ### Known Languages
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,python)
 
-### Interested in
+### Interested in learning
 ![My Skills](https://skillicons.dev/icons?i=rust,kotlin)
 
 <!--
