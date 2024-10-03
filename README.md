@@ -1,6 +1,9 @@
 ## Stuff
 
 ### Known Languages
+!(https://skillicons.dev/icons?i=c,cpp,python)
+
+### Interested in
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,python)
 
 <!--
