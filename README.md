@@ -10,7 +10,7 @@ Computer engineering student. I speak Spanish and English. Interested in coding,
 ![My Skills](https://skillicons.dev/icons?i=rust,kotlin)
 
 ### Currently on
-![My Skills](https://skillicons.dev/icons?i=arch) (btw)
+![My Skills](https://skillicons.dev/icons?i=arch) (btw) ![My Skills](https://skillicons.dev/icons?i=vscodium)
 
 <!--
 **rmgleon/rmgleon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
