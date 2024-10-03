@@ -1,6 +1,7 @@
 ## Uhh
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python)]
+### Known Languages
+![My Skills](https://skillicons.dev/icons?i=c,cpp,python)
 
 <!--
 **rmgleon/rmgleon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
