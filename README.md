@@ -1,7 +1,7 @@
 ## Stuff
 
 ### About me
-Computer engineering student. I speak Spanish and English. Interested in coding, speculative biology, and not going outside for extended periods of time.
+Hi. I'm a computer engineering student, currently on my second year. I speak Spanish and English. My interests include coding, speculative biology, and not going outside for extended periods of time.
 
 ### Familiar with
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,python)
