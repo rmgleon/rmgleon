@@ -1,7 +1,7 @@
 ## About me
 
 ### Hi
-I'm a student from Argentina, currently going through my second year of computer engineering. My native language is Spanish, though I can comfortably hold a conversation in English. My interests include coding, speculative biology, and not going outside for extended periods of time.
+I'm a university student from Argentina, currently going through my second year of computer engineering. My native language is Spanish, though I can comfortably hold a conversation in English. My interests include coding, speculative biology, and not going outside for extended periods of time.
 
 ### Familiar with
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,python)
