@@ -7,7 +7,7 @@ Hi. I'm a computer engineering student, currently on my second year. I speak Spa
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,python)
 
 ### Interested in learning
-![My Skills](https://skillicons.dev/icons?i=rust,kotlin)
+![My Skills](https://skillicons.dev/icons?i=rust,kotlin,zig,odin)
 
 ### Currently on
 ![My Skills](https://skillicons.dev/icons?i=arch,vscodium)
