@@ -7,7 +7,7 @@ I'm a university student from Argentina, currently going through my second year 
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,python)
 
 ### Interested in learning
-![My Skills](https://skillicons.dev/icons?i=rust,kotlin,zig,odin)
+![My Skills](https://skillicons.dev/icons?i=rust,kotlin,zig,odin,opengl)
 
 ### Currently on
 ![My Skills](https://skillicons.dev/icons?i=arch,vscodium)
