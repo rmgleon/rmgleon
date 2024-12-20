@@ -1,6 +1,9 @@
 ### Familiar with
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,python)
 
+### Learning
+![My Skills](https://skillicons.dev/icons?i=csharp,postgresql)
+
 ### Interested in learning
 ![My Skills](https://skillicons.dev/icons?i=rust,kotlin,zig,odin)
 
