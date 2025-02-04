@@ -1,14 +1,13 @@
-### Familiar with
-![My Skills](https://skillicons.dev/icons?i=c,cpp,python)
+#### Tech I use (In no particular order)
+![Familiar](https://skillicons.dev/icons?i=angular,cs,dotnet,postgresql,c,cpp,python,arch,vscodium)
 
-### Learning
-![My Skills](https://skillicons.dev/icons?i=angular,cs,dotnet,postgresql)
+---
 
-### Interested in learning
-![My Skills](https://skillicons.dev/icons?i=rust,kotlin,zig,odin)
-
-### Currently on
-![My Skills](https://skillicons.dev/icons?i=arch,vscodium)
+<!-- 
+<div align="center">
+<a href="https://www.linkedin.com/in/magno-le%C3%B3n-rossi-84aa03256/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</div>
+-->
 
 <!--
 **rmgleon/rmgleon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
